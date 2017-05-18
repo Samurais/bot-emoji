@@ -1,4 +1,5 @@
 # bot-emoji
+https://emojidictionary.emojifoundation.com/
 
 支持在聊天机器人中，将中文和emoji进行转换。
 

@@ -1,6 +1,6 @@
 {
   "name": "bot-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple emoji support for node.js projects",
   "author": "hai liang wang <hailiang.hl.wang@gmail.com>",
   "repository": {
@@ -25,6 +25,7 @@
     "url": "https://github.com/Samurias/bot-emoji/issues"
   },
   "dependencies": {
+    "debug": "^2.6.7",
     "string.prototype.codepointat": "^0.2.0"
   },
   "devDependencies": {
